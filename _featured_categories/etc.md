@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Unclassified
-slug: unclassified
+title: etc
+slug: etc
 menu: true
 submenu: false
-order: 5
+order: 4
 description: >
   기타
 ---
